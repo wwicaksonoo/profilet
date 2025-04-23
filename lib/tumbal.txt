@@ -1,0 +1,25 @@
+Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              Column(
+                children: [
+                  Text('313'),
+                  Text('Following'),
+                ],
+              ),
+              Column(
+                children: [
+                  Text('364'),
+                  Text('Followers'),
+                ],
+              ),
+              Column(
+                children: [
+                  Text('01'),
+                  Text('Likes'),
+                ],
+              ),
+            ],
+          ),
+
+          Icon(Icons.person, size: 75, color: Colors.grey),
